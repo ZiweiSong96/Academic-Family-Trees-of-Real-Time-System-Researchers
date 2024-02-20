@@ -6,17 +6,25 @@ The research areas include Hard/Soft Real Time Scheduling, CPS designing, Real-T
 I checked the University Library websites and the publication information in their early career to figure out the possible relationship, so there might be some mistakes. 
 
 ## USA
-UIUC 
--C.L.Liu
+### UIUC 
+C.L.Liu
 
-UMich
--K.G.Shin
+### UMich
+K.G.Shin
 
-UT Austin
--M.Gouda
--Aloyis Mok
+### UT Austin
+M.Gouda
+Aloyis Mok
 
-UNC
--Jim Anderson
+### UVa
+John Stankovic
+
 ## Sweden
+### Uppsala
+Wang Yi
+
+## Italy
+### Scuola Superiore Sant'Anna of Pisa
+Giorgio C. Buttazzo
+
 
